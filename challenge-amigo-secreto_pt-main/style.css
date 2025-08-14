@@ -1,11 +1,11 @@
 :root {
     --color-primary: #4B69FD;
     --color-secondary: #FFF9EB;
-    --color-tertiary: #C4C4C4;
+    --color-tertiary: #efb13c;
     --color-button: #fe652b;
     --color-button-hover: #e55720;
     --color-button-hover-secondary: #3252ee;
-    --color-text: #444444;
+    --color-hover-tertiary: #F2A922;
     --color-white: #FFFFFF;
 }
 
@@ -90,7 +90,7 @@ body {
 
 .button-container {
     display: flex;
-    gap: 2em;
+    gap: 1.7em;
 }
 
 /* Estilos de entrada de texto */
@@ -117,8 +117,8 @@ button {
 }
 
 .button-add {
-    background-color: var(--color-tertiary);
-    color: var(--color-text);
+    background-color: var(--color-button);
+    color: var(--color-white);
     border-radius: 0 25px 25px 0;
 }
 
@@ -148,7 +148,7 @@ ul {
     display: flex;
     align-items: center;
     width: 100%;
-    padding: 10px 40px;
+    padding: 10px 20px;
     color: var(--color-white);
     background-color: var(--color-button);
     font-size: 16px;
@@ -167,7 +167,7 @@ ul {
     display: flex;
     align-items: center;
     width: 100%;
-    padding: 10px 40px;
+    padding: 10px 20px;
     color: var(--color-white);
     background-color: var(--color-primary);
     font-size: 16px;
@@ -189,7 +189,7 @@ ul {
     display: flex;
     align-items: center;
     width: 100%;
-    padding: 10px 40px;
+    padding: 10px 20px;
     color: var(--color-white);
     background-color: var(--color-tertiary);
     font-size: 16px;
@@ -202,5 +202,5 @@ ul {
 }
 
 .button-reiniciar:hover {
-    background-color: var(--color-button-hover);
+    background-color: var(--color-hover-tertiary);
 }
