@@ -56,7 +56,7 @@
 https://github.com/user-attachments/assets/f68f1cc3-cd4a-4993-95d1-7ff0a16a9345
 
 
-## 💻 Tecnologias utilizadas
+## Tecnologias utilizadas
 
 <p align="left">
   <a href=""><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
