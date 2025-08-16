@@ -56,7 +56,7 @@
 https://github.com/user-attachments/assets/f68f1cc3-cd4a-4993-95d1-7ff0a16a9345
 
 
-## Tecnologias utilizadas
+## 💻 Tecnologias utilizadas
 
 <p align="left">
   <a href=""><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
@@ -75,7 +75,7 @@ git clone git@github.com:francinevsouza/challenge-amigo-secreto.git
 
 ## Abrir e rodar o projeto
 
-Após clonar o projeto, você pode abri-lo no Visual Studio. Para isso, clique em:
+Após clonar o projeto, você pode abri-lo no Visual Studio Code. Para isso, clique em:
 
 - **File - Open Folder**;
 - Procure o local onde o projeto está e o selecione;
