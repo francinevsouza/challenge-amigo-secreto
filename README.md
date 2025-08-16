@@ -24,6 +24,8 @@
 
 :small_blue_diamond: [Acesso ao projeto](#acesso-ao-projeto)
 
+:small_blue_diamond: [Abrir e rodar o projeto](#abrir-e-rodar-o-projeto)
+
 :small_blue_diamond: [Desenvolvedora](#desenvolvedora)
 
 
@@ -68,9 +70,16 @@ https://github.com/user-attachments/assets/f68f1cc3-cd4a-4993-95d1-7ff0a16a9345
 No terminal, clone o projeto: 
 
 ```
-git clone https://github.com/francinevsouza/challenge-amigo-secreto_pt-main
+git clone git@github.com:francinevsouza/challenge-amigo-secreto.git
 ```
 
+## Abrir e rodar o projeto
+
+Após clonar o projeto, você pode abri-lo no Visual Studio. Para isso, clique em:
+
+- **File - Open Folder**;
+- Procure o local onde o projeto está e o selecione;
+- Por fim clique em **Selecionar pasta**.
 
 ## Desenvolvedora
 
