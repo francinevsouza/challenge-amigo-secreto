@@ -3,8 +3,9 @@
     Challenge Amigo Secreto
     <br />
     <br />
-    <a href="https://fran.github.io/challenge-amigo-secreto_pt-main/">
-    </a>
+    <a href="https://github.com/francinevsouza/challenge-amigo-secreto/blob/main/">
+      <img src="https://github.com/francinevsouza/challenge-amigo-secreto/blob/main/challenge-amigo-secreto_pt-main/assets/amigos.jpg"> 
+    </a>    
   </h1>
 </div>
 
@@ -29,7 +30,7 @@
 ## Descrição do projeto 
 
 <p align="justify">
-    O Challenge Amigo Secreto é um desafio que faz parte da conclusão da fase de seleção do programa ONE (Oracle Next Education) em parceria com a Alura. A aplicação tem como objetivo realizar sorteios de amigo secreto de maneira prática, proporcionando agilidade e organização para os participantes.
+    O Challenge Amigo Secreto é um desafio que faz parte da conclusão da fase de seleção do programa ONE (Oracle Next Education) em parceria com a Alura. A aplicação tem como objetivo realizar sorteios de amigo secreto de maneira prática e rápida, proporcionando organização e diversão aos participantes.
 </p>
 
 
@@ -39,7 +40,7 @@
 
 :heavy_check_mark: Validar a entrada dos nomes para impedir a inserção de espaços vazios;
 
-:heavy_check_mark: Sortear amigos secretos;
+:heavy_check_mark: Sortear amigo secreto;
 
 :heavy_check_mark: Exibir o resultado do sorteio;
 
